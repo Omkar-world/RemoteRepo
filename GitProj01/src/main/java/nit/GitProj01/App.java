@@ -8,5 +8,9 @@ public class App {
 		int c=a+b;
 		return c;
 	}
+	public static void main(String[] args) {
+		App ap=new App();
+		System.out.println("sum is::"+ap.sum(10, 20));
+	}
     
 }
