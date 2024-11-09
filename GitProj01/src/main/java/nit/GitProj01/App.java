@@ -16,6 +16,7 @@ public class App {
 		App ap=new App();
 		System.out.println("sum is::"+ap.sum(10, 20));
 		System.out.println("sum is::"+ap.sum(10, 20));
+		System.out.println("sum is ::"+ap.sum(10, 60));
 
 	}
     
