@@ -18,11 +18,9 @@ public class UpiPayment {
 		System.out.println("UpiPayment.ccc()");
 	}
 
+	
 	public void abc() {
 		System.out.println("hello");
-
 	}
-	public void abc() {
-		System.out.println;
-	}
+	
 }
