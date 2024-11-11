@@ -23,4 +23,7 @@ public class UpiPayment {
 		System.out.println("hello");
 	}
 	
+	public String closeAccount(double accNum) {
+		return new Random().nextDouble(500000)+"Auccount is closed ";
+	}
 }
