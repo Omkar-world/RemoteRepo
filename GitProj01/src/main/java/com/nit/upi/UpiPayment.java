@@ -22,4 +22,7 @@ public class UpiPayment {
 		System.out.println("hello");
 
 	}
+	public void abc() {
+		System.out.println;
+	}
 }
