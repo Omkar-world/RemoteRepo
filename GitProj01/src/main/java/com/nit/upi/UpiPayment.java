@@ -14,4 +14,7 @@ public class UpiPayment {
 	public String checkBalance(double accNum) {
 		return "your balance is"+new Random().nextDouble(50000000);
 	}
+	public void ccc() {
+		System.out.println("UpiPayment.ccc()");
+	}
 }
