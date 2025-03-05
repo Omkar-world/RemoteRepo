@@ -11,7 +11,7 @@
 	<groupId>nit</groupId>
 	<artifactId>BootMVCProj09-MiniProject-CurdOpertaion</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<name>BootMVCProj09-MiniProject-CurdOpertaion</name>
 	<description>batch processing</description>
 	<url/>
